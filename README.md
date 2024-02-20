@@ -13,5 +13,6 @@ Hi!👋 I am Shalin Ann Thomas, a B.Tech Computer Science & Engineering student 
 
 ## Contact
 * LinkedIn: https://www.linkedin.com/in/ishalinat/
-
+* Instagram: @shalinthomass
+* Snapchat: @shalinthomass
 </div>
