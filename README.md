@@ -1,10 +1,5 @@
-<div><br class="Apple-interchange-newline">
-
-<br><br>
-
-# Hi there, I'm [Your Name] 👋
-
-Welcome to my GitHub profile! I'm a passionate developer with experience in [Your Field, e.g., Web Development, Data Science, etc.], and I love working on interesting projects and contributing to the open-source community.
+# Hi there, I'm Shalin👋
+Welcome to my GitHub profile! I'm a computer science engineering student, and I love working on interesting projects and contributing to the open-source community.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [Your current project or job].
@@ -40,33 +35,13 @@ A short description of what the project does and why it’s awesome.
 ![Project 3 Image or GIF](link-to-image-or-gif)
 
 ## 📊 GitHub Stats
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
----
-
-## 🤝 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website](https://yourwebsite.com)
-
----
-
-## 📝 Blog & Writing
-
-If you're interested in reading some of my thoughts on tech, development, or other topics, check out my blog:
-
-- [Blog Post 1](link-to-post)
-- [Blog Post 2](link-to-post)
-
----
 
 ## 📜 Fun Facts
-
-- 🎮 I love gaming in my free time!
+- 🎥 I watching and talking about movies.
 - 🏞️ Avid traveler — always looking for my next adventure.
-- 🎨 Enjoys [other hobbies, e.g., painting, photography, etc.].
+- 👩‍💻 Enjoys learning new things
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shalin-01&label=Profile%20views&color=0e75b6&style=flat" alt="Shalin-01" /> </p>
