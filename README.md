@@ -1,38 +1,12 @@
 # Hi there, I'm Shalin👋
 Welcome to my GitHub profile! I'm a computer science engineering student, and I love working on interesting projects and contributing to the open-source community.
 
-## 🚀 About Me
-- 🔭 I’m currently working on [Your current project or job].
-- 🌱 I’m always learning and improving my skills in [technologies you’re learning or focusing on, e.g., React, Python, etc.].
-- 💬 Ask me about [topics you’re comfortable with or want to help others with].
-- 📫 How to reach me: [email or other contact details].
-- 😄 Pronouns: [Your pronouns, e.g., He/Him, She/Her, They/Them].
 
 ## 💼 Skills & Technologies
 - **Languages**: JavaScript, Python, Java, HTML/CSS, SQL, etc.
-- **Frameworks & Libraries**: React, Node.js, Django, Flask, etc.
-- **Tools**: Git, Docker, Kubernetes, Nginx, etc.
-- **Databases**: MySQL, MongoDB, PostgreSQL, etc.
-- **Other**: [Add anything relevant like DevOps, Machine Learning, etc.]
+- **Frameworks & Libraries**: Node.js, Flask, etc.
+- **Databases**: MySQL, MongoDB, etc.
 
-## 🔥 Projects
-
-Here are a few of the projects I’ve worked on that I'm most proud of:
-
-### [Project 1](link-to-project)
-A short description of what the project does and why it’s awesome.
-
-![Project 1 Image or GIF](link-to-image-or-gif)
-
-### [Project 2](link-to-project)
-A short description of what the project does and why it’s awesome.
-
-![Project 2 Image or GIF](link-to-image-or-gif)
-
-### [Project 3](link-to-project)
-A short description of what the project does and why it’s awesome.
-
-![Project 3 Image or GIF](link-to-image-or-gif)
 
 ## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalin-01&layout=compact&langs_count=10" width="400" height="200"> </p>
