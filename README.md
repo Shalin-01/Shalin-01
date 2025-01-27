@@ -35,8 +35,8 @@ A short description of what the project does and why it’s awesome.
 ![Project 3 Image or GIF](link-to-image-or-gif)
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalin-01&layout=compact&langs_count=10" width="200" height="100">
-<img src="https://github-readme-stats.vercel.app/api?username=shalin-01&show_icons=true&hide_title=true&count_private=true&hide=prs" width="400" height="200">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalin-01&layout=compact&langs_count=10" width="400" height="200"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shalin-01&show_icons=true&hide_title=true&count_private=true&hide=prs" width="400" height="200"> </p>
 
 
 ## 📜 Fun Facts
