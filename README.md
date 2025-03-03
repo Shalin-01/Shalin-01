@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a computer science engineering student, and I 
 ## 💼 Skills & Technologies
 - **Languages**: JavaScript, Python, Java, HTML/CSS, SQL, etc.
 - **Frameworks & Libraries**: Node.js, Flask, etc.
-- **Databases**: MySQL, MongoDB, etc.
+- **Databases**: MySQL, MongoDB, Firebase etc.
 
 
 ## 📊 GitHub Stats
